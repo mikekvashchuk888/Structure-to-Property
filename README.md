@@ -1,2 +1,2 @@
-# Structure-to-Property
+# Mykhailo's Projects
 Evaluating the structure of a moleucle to figure out its potential properties.
