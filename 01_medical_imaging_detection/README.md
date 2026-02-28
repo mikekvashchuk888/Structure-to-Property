@@ -20,3 +20,11 @@ Medical imaging is a key application area for biomedical engineering and AI in h
 - Extend to larger and more diverse datasets
 - Integrate supervised learning models
 - Validate results against labeled clinical data
+
+
+##Starter photo
+
+
+
+
+##End product
